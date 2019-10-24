@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">twitter app</string>
+    <string name="twitter_consumer_key" translatable="false"> DvqnmBZXzKK4zuhuttoDyGDsT </string>
+    <string name="twitter_consumer_secret" translatable="false"> 9KuECahz9jaYg68H08BjUGA7biboA7unwUJv8QotyTF76qQ5Jk </string>
+</resources>
